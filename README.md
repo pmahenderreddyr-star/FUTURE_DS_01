@@ -1,4 +1,4 @@
-# 🌍 Global Sales Performance Dashboard
+# 🌍 Global Orders and Sales  Dashboard
 
 This Power BI project provides an interactive *Global Orders and Sales Dashboard* that visualizes key sales insights across different regions, products, and time periods.  
 It helps users understand overall performance, identify trends, and make data-driven decisions.
